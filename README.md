@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>Cristian Pukki <br/><a href="https://github.com/Crosyuo/Crosyuo">Programmer</a></h1>
 
-<!--
-**Crosyuo/Crosyuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Game Development Projects:</h2>
 
-Here are some ideas to get you started:
+  - [Small Alien Invaders project](https://github.com/Crosyuo/Portfolio-projekti-1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Other Programming Projects:</h2>
+
+<h2>Game Development Projects:</h2>
+
+   - 3 Years information and communication technology, ICT dual degree at Business College Helsinki with a specialization in Game Development
+
+   - Currently studying ICT at Metropolia University of Applied Sciences with a specialization in Game Development
+
+<h2>Contact me:</h2>
+
+   - Email: cristian.pukki@gmail.com
