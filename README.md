@@ -3,11 +3,11 @@
 <h2>Game Development Projects:</h2>
 
   - [Small Alien Invaders project](https://github.com/Crosyuo/Portfolio-projekti-1)
-  - [Second year final project at Metropolia](https://onniforsell.itch.io/no-buddy-no-crime)
+  - [No Buddy No Crime:](https://github.com/Crosyuo/Portfolio-Project-2)
 
 <h2>Other Programming Projects:</h2>
 
-<h2>Game Development Projects:</h2>
+<h2>Education:</h2>
 
    - 3 Years information and communication technology, ICT dual degree at Business College Helsinki with a specialization in Game Development
 
