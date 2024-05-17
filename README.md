@@ -3,6 +3,7 @@
 <h2>Game Development Projects:</h2>
 
   - [Small Alien Invaders project](https://github.com/Crosyuo/Portfolio-projekti-1)
+  - [Second year final project at Metropolia](https://onniforsell.itch.io/no-buddy-no-crime)
 
 <h2>Other Programming Projects:</h2>
 
